@@ -30,7 +30,7 @@ library is based on Vatti's clipping algorithm.
 %install
 %py_install
 
-%files %{python_files}
+%files
 %doc README.rst
 %license LICENSE
 %{python_sitearch}/pyclipper
