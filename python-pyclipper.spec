@@ -1,6 +1,6 @@
 Name:           python-pyclipper
 Version:        1.3.0.post3
-Release:        1
+Release:        2
 Summary:        Cython wrapper for the Clipper library for clipping lines and polygons
 License:        MIT
 URL:            https://github.com/fonttools/pyclipper
