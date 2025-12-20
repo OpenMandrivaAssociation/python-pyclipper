@@ -10,6 +10,7 @@ BuildRequires:  pkgconfig(python)
 #BuildRequires:  python3dist(setuptools_scm_git_archive}
 BuildRequires:  python%{pyver}dist(setuptools-scm)
 BuildRequires:  python%{pyver}dist(setuptools)
+BuildRequires:	python%{pyver}dist(pip)
 BuildRequires:  unzip
 
 %description
